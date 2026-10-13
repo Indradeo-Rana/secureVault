@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>SecureVault</title>
+  <rect width="64" height="64" rx="14" fill="#2563eb"/>
+  <path d="M32 10 49 17v13c0 11-6.9 19.3-17 24C21.9 49.3 15 41 15 30V17l17-7Z" fill="#dbeafe"/>
+  <rect x="22" y="28" width="20" height="16" rx="4" fill="#1d4ed8"/>
+  <path d="M26 28v-4a6 6 0 0 1 12 0v4" fill="none" stroke="#1d4ed8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="32" cy="36" r="2.5" fill="#dbeafe"/>
+  <path d="M32 38.5v2" stroke="#dbeafe" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
